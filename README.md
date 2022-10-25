@@ -5,7 +5,7 @@ Kanban Board Clone develop on React/TypeScript, Chakra UI, React Dnd and LocalSt
 
 ## Screenshots
 
-![App Screenshot]([https://i.ibb.co/2ZB4FGV/image.png](https://i.ibb.co/xgRvTmP/image.png))
+![App Screenshot](https://i.ibb.co/MV6P0BZ/image.png)
 
 
 ## Dashboard Homepage
